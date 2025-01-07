@@ -41,7 +41,7 @@ My name is George Forgey, and I am studying at Northeastern University. I am pas
 ---
 
 ### 📬 Contact & More
-- **LinkedIn:** [George Forgey]([https://www.linkedin.com/](https://www.linkedin.com/in/george-forgey/))  
+- **LinkedIn:** [George Forgey](https://www.linkedin.com/in/george-forgey/)
 - **Email:** forgey.g@northeastern.edu
 
 ### ⚽ About Me (Personal)
