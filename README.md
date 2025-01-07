@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am George Forgey and am currently studying at Northeastern University. I am passionate about **AI**, **Data**, **Machine Learning**, **Deep Learning**, and **Computer Vision**. I have recently been learning **object detection** and **OCR**, as well as **Web Development** using tools like **Next.js** and **Tailwind CSS**.
+My name is George Forgey, and I am studying at Northeastern University. I am passionate about AI, data, machine learning, deep learning, and computer vision. I have recently been learning object detection, OCR, and Web Development tools such as Next.js and Tailwind CSS.
 
 ---
 
@@ -34,14 +34,14 @@ I am George Forgey and am currently studying at Northeastern University. I am pa
 ---
 
 ### 💡 Learning Goals
-- Dive deeper into **advanced computer vision techniques** (like instance segmentation, pose estimation).
+- Dive deeper into **advanced computer vision techniques** such as live object detection.
 - Explore **MLOps** and model deployment best practices.
 - Refine **frontend and full-stack** development skills.
 
 ---
 
 ### 📬 Contact & More
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)  
+- **LinkedIn:** [George Forgey]([https://www.linkedin.com/](https://www.linkedin.com/in/george-forgey/))  
 - **Email:** forgey.g@northeastern.edu
 
 ### ⚽ About Me (Personal)
