@@ -34,15 +34,15 @@ I’m passionate about **AI, data science, computer vision, and full-stack devel
 
 ### 💼 Featured Projects
 
-- **[PFT Interpreter](#)** · *Python, OpenCV, PaddleOCR, Tkinter*  
-  Automated pulmonary function test interpretation in collaboration with Beth Israel pulmonology.  
+- **[PFT Interpreter](https://github.com/George-Forgey/PFT-Reader)** · *Python, OpenCV, PaddleOCR, Tkinter*  
+  Automated pulmonary function test interpretation in collaboration with Beth Israel Pulmonology.  
   → Achieved **99% OCR & diagnosis accuracy** on labeled data.
 
-- **[Energy Consumption Forecast](#)** · *Python, Prophet, Pandas*  
+- **[Energy Consumption Forecast](https://github.com/George-Forgey/Energy-Consumption-Forecast)** · *Python, Prophet, Pandas*  
   Forecasting pipeline with holiday/seasonality modeling and grid search hyperparameter tuning.  
   → Achieved **90.4% accuracy** across regression metrics (MAPE, RMSE).
 
-- **[Spotify Song Recommender](#)** · *Python, Streamlit, NumPy*  
+- **[Spotify Song Recommender](https://github.com/George-Forgey/Spotify-Song-Recommender)** · *Python, Streamlit, NumPy*  
   Interactive recommender system leveraging Spotify Web API & 30k+ tracks.  
   → Added dynamic visualizations & user-tailored music suggestions.
 
