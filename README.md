@@ -1,56 +1,73 @@
 <h1 align="center">Hi there, I'm George Forgey! 👋</h1>
 <p align="center">
-  <em>Northeastern University - Computer Science and Mathematics</em>
+  <em>Northeastern University — Computer Science & Mathematics</em> <br/>
+  <em>Aspiring Software Engineer • AI/ML Enthusiast • Cloud Practitioner</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-My name is George Forgey, and I am studying at Northeastern University. I am passionate about AI, data, machine learning, deep learning, and computer vision. I have recently been learning object detection, OCR, and Web Development tools such as Next.js and Tailwind CSS.
+I’m George, a Computer Science & Mathematics student at Northeastern University (GPA: 4.0/4.0).  
+I’m passionate about **AI, data science, computer vision, and full-stack development**, and I love building tools that blend theory with real-world impact. Recently, I’ve been working on **OCR-driven medical software**, **forecasting pipelines**, and **interactive recommender systems**.
 
 ---
 
-### 🚀 Skills & Technologies
+### ⚡ Skills & Technologies
 
-**Languages:**
-- **Python** | **JavaScript** | **HTML** | **CSS**
+**Languages**  
+`Python` · `Java` · `JavaScript` · `HTML/CSS` · `Racket` · `MATLAB` · `JSON`
 
-**Data Science & ML:**
-- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow
-- **Data Tools:** Jupyter, Google Colab
+**Frameworks & Platforms**  
+`React` · `Next.js` · `Node.js` · `Flask` · `FastAPI` · `Streamlit` · `Tkinter`
 
-**Web Development:**
-- **Frameworks:** React, Next.js, Tailwind CSS  
-- **Tools & Platforms:** VSCode, GitHub, Vercel, Netlify
+**Data Science & ML**  
+`NumPy` · `Pandas` · `Matplotlib` · `SciPy` · `SymPy` · `Scikit-Learn` · `Prophet`  
+`PyTorch` · `OpenCV` · `PaddleOCR`
 
----
+**Cloud & DevOps**  
+`AWS (Certified Cloud Practitioner)` · `Google Cloud Platform` · `Docker` · `Vercel`
 
-### 💼 Projects & Interests
-- **Computer Vision:** Object Detection, OCR, and Image Classification.
-- **Machine Learning:** Experimenting with data modeling, predictive analytics, and deploying ML models.
-- **Web Development:** Building responsive and dynamic web applications.
-
+**Developer Tools**  
+`Git` · `GitHub` · `VS Code` · `PyCharm` · `Eclipse` · `IntelliJ`
 
 ---
 
-### 💡 Learning Goals
-- Dive deeper into **advanced computer vision techniques** such as live object detection.
-- Explore **MLOps** and model deployment best practices.
-- Refine **frontend and full-stack** development skills.
+### 💼 Featured Projects
+
+- **[PFT Interpreter](#)** · *Python, OpenCV, PaddleOCR, Tkinter*  
+  Automated pulmonary function test interpretation in collaboration with Beth Israel pulmonology.  
+  → Achieved **99% OCR & diagnosis accuracy** on labeled data.
+
+- **[Energy Consumption Forecast](#)** · *Python, Prophet, Pandas*  
+  Forecasting pipeline with holiday/seasonality modeling and grid search hyperparameter tuning.  
+  → Achieved **90.4% accuracy** across regression metrics (MAPE, RMSE).
+
+- **[Spotify Song Recommender](#)** · *Python, Streamlit, NumPy*  
+  Interactive recommender system leveraging Spotify Web API & 30k+ tracks.  
+  → Added dynamic visualizations & user-tailored music suggestions.
 
 ---
 
-### 📬 Contact & More
-- **LinkedIn:** [George Forgey](https://www.linkedin.com/in/george-forgey/)
-- **Email:** forgey.g@northeastern.edu
+### 🎯 Current Learning Goals
+- Dive deeper into **MLOps & model deployment pipelines**.  
+- Refine **full-stack web development** with Next.js + Tailwind CSS.  
+- Explore **advanced computer vision techniques** and real-time OCR.
 
-### ⚽ About Me (Personal)
-- **Hobbies:** Soccer, Video Games, Violin
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [George Forgey](https://www.linkedin.com/in/george-forgey/)  
+- **Email:** forgey.g@northeastern.edu  
+
+---
+
+### ⚽ Outside of Tech
+Soccer · Chess · Cooking · Violin 🎻  
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20CV-blueviolet?style=flat-square" alt="Focus badge"/>
-  <img src="https://img.shields.io/badge/Skills-Python%20%7C%20JS%20%7C%20React%20%7C%20Next.js%20%7C%20Tailwind-blue?style=flat-square" alt="Skills badge"/>
-  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20GitHub%20%7C%20Vercel-green?style=flat-square" alt="Tools badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Computer%20Vision-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Skills-Python%20%7C%20React%20%7C%20FastAPI%20%7C%20PyTorch-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Docker-green?style=flat-square"/>
 </p>
