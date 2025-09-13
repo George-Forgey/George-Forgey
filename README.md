@@ -6,13 +6,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I’m George, a Computer Science & Mathematics student at Northeastern University (GPA: 4.0/4.0).  
 I’m passionate about **AI, data science, computer vision, and full-stack development**, and I love building tools that blend theory with real-world impact. Recently, I’ve been working on **OCR-driven medical software**, **forecasting pipelines**, and **interactive recommender systems**.
 
 ---
 
-### ⚡ Skills & Technologies
+### Skills & Technologies
 
 **Languages**  
 `Python` · `Java` · `JavaScript` · `HTML/CSS` · `Racket` · `MATLAB` · `JSON`
@@ -32,7 +32,7 @@ I’m passionate about **AI, data science, computer vision, and full-stack devel
 
 ---
 
-### 💼 Featured Projects
+### Featured Projects
 
 - **[PFT Interpreter](https://github.com/George-Forgey/PFT-Reader)** · *Python, OpenCV, PaddleOCR, Tkinter*  
   Automated pulmonary function test interpretation in collaboration with Beth Israel Pulmonology.  
@@ -48,20 +48,20 @@ I’m passionate about **AI, data science, computer vision, and full-stack devel
 
 ---
 
-### 🎯 Current Learning Goals
+### Current Learning Goals
 - Dive deeper into **MLOps & model deployment pipelines**.  
 - Refine **full-stack web development** with Next.js + Tailwind CSS.  
 - Explore **advanced computer vision techniques** and real-time OCR.
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 - **LinkedIn:** [George Forgey](https://www.linkedin.com/in/george-forgey/)  
 - **Email:** forgey.g@northeastern.edu  
 
 ---
 
-### ⚽ Outside of Tech
+### Outside of Tech
 Soccer · Chess · Cooking · Violin 🎻  
 
 ---
